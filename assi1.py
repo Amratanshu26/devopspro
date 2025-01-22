@@ -11,4 +11,5 @@ D = sum(xi ** 2 for xi in x)
 m = (n * N - sum_x * sum_y) / (n * D - sum_x ** 2)
 
 print(f"Slope (m): {m}")
+print("hiiiii  commit done")
 
